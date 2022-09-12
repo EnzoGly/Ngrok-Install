@@ -17,4 +17,5 @@ rm ngrok-v3-stable-linux-amd64.tgz
 cd
 chmod +x *
 clear
-echo "Ngrok instalado com sucesso :)"
+echo "Ngrok instalado com sucesso !!!"
+echo "Configure seu token ngrok :)"
